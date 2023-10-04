@@ -54,6 +54,7 @@ def render_world():
     update_canvas()
 
 
+
 def update_world():
     global frame
     global cx, cy
